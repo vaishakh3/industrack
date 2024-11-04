@@ -6,7 +6,7 @@ IndusTrack is a web application designed to streamline task management and enhan
 | Admin Credentials | Employee Credentials |
 |-----------------------------------------|-----------------------------------------|
 | Email: testadmin@gmail.com |  Email: testemployee@gmail.com |
-| Password- 123@testadmin | Password- 123@Testemployee |
+| Password- 123@Testadmin | Password- 123@Testemployee |
   
 
 ## Features
