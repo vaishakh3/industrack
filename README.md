@@ -1,8 +1,8 @@
 
-# Trackify
+# IndusTrack
 
-Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently.
-#### Web Link: https://trackify.duckdns.org
+IndusTrack is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently.
+
 | Admin Credentials | Employee Credentials |
 |-----------------------------------------|-----------------------------------------|
 | Email: testadmin@gmail.com |  Email: testemployee@gmail.com |
@@ -53,7 +53,7 @@ Trackify is a web application designed to streamline task management and enhance
 
 ### Clone the repository
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/Trackify.git`
+1. Clone the repository: `git clone https://https://github.com/vaishakh3/industrack.git`
 
 ### Configure the client
 
@@ -101,9 +101,3 @@ We welcome contributions from the community to enhance Trackify. Feel free to su
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Contact
-
-For any questions or inquiries, please reach out to the development team at [rishavchanda0@gmail.com]
-
-Enjoy using Trackify and stay productive!
