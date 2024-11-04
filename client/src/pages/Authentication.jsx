@@ -62,10 +62,10 @@ const Authentication = () => {
     <Container>
       <Logotext>
         <LogoImg src={Logo} />
-        Trackify
+        IndusTrack
       </Logotext>
       <WelcomeText>
-        {openSignUp ? "Welcome to Trackify!" : "Welcome back to Trackify!"}
+        {openSignUp ? "Welcome to IndusTrack!" : "Welcome back to IndusTrack!"}
       </WelcomeText>
       {openSignUp ? (
         <SignUp setOpenSignUp={setOpenSignUp} />

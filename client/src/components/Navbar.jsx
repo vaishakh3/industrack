@@ -146,7 +146,7 @@ const Navbar = ({ setMenuOpen, menuOpen }) => {
         <Path>{path}</Path>
         <LogoText to="/">
           <LogoImg src={Logo} />
-          Trackify
+          Industrack
         </LogoText>
       </Flex>
       <User aria-describedby={id} onClick={handleClick}>

@@ -50,7 +50,7 @@ const withSplashScreen = (WrappedComponent) => {
       <Container>
         <LogoText>
           <LogoImg src={Logo} />
-          Trackify
+          IndusTrack
         </LogoText>
       </Container>
     ) : (

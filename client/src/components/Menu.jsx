@@ -208,7 +208,7 @@ const Menu = ({ setMenuOpen, setOpenEmployeeRegister, setOpenCreateTask }) => {
       <Flex>
         <LogoText to="/">
           <LogoImg src={Logo} />
-          Trackify
+          Industrack
         </LogoText>
         <Close>
           <CloseRounded onClick={() => setMenuOpen(false)} />
